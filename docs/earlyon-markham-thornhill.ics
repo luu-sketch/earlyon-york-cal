@@ -25,114 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8a703aacc652f8f5@earlyon-cal
-DTSTAMP:20260714T090159Z
-DTSTART;TZID=America/Toronto:20260707T090000
-DTEND;TZID=America/Toronto:20260707T110000
-SUMMARY:Music and Movement (birth to 6 years old)
-LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
-DESCRIPTION:This program invites you and your child(ren) to enjoy music and
-  movement together. We’ll sing songs\, play with instruments and materia
- ls that help support healthy development while connecting with other famil
- ies and educators.\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://
- www.missioninc.com/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:88394253ef2acbb9@earlyon-cal
-DTSTAMP:20260714T090159Z
-DTSTART;TZID=America/Toronto:20260707T091500
-DTEND;TZID=America/Toronto:20260707T111500
-SUMMARY:Family Fun Outdoors (birth to 6 years old)
-LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
-DESCRIPTION:This program invites you and your child(ren) to enjoy some fun\
- , interactive experiences in a variety of outdoor spaces. Dress for the we
- ather. It's a great way to connect with other families and educators.\n\n*
- *This program will take place OUTDOORS (dress for the weather!).**\n\n*Ple
- ase check-in inside the Main Office before heading outside.*\n\nDrop-in\, 
- Outdoor\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
- c.com/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:1745564252170b74@earlyon-cal
-DTSTAMP:20260714T090159Z
-DTSTART;TZID=America/Toronto:20260707T093000
-DTEND;TZID=America/Toronto:20260707T103000
-SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
-LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
-DESCRIPTION:This program invites you and your child(ren) to engage in singi
- ng\, rhyming\, and storytelling! This program supports development of lang
- uage and literacy skills in a fun and engaging way. It’s a great way to 
- connect with other families and educators.\n\n**This is a pre-registered V
- IRTUAL program in CANTONESE (please attend all 4 sessions). Zoom link will
-  be provided in advance of the program.**\n\n*NOTE: If you pre-register AF
- TER July 3\, please email earlyonmarkham@familydaycare.com to let us know\
- , so we may send you the link to join.*\n\nPre-registration required\, Vir
- tual\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.c
- om/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:338f16c934264d8a@earlyon-cal
-DTSTAMP:20260714T090159Z
-DTSTART;TZID=America/Toronto:20260707T133000
-DTEND;TZID=America/Toronto:20260707T153000
-SUMMARY:Parent-Child Mother Goose Program® (birth to 12 months)
-LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
-DESCRIPTION:This program invites you and your baby or young child to a grou
- p experience that focuses on the pleasure and power of using rhymes\, song
- s\, and stories together. You will be introduced to skills that can enhanc
- e your confidence to create positive family patterns during your child's c
- ritical early years. Everyone can benefit from enjoyable\, healthy experie
- nces with language and communication. It’s a great way to connect with o
- ther families and educators.\n\n**This is a pre-registered program for Bir
- th to 12 months (please attend all 7 sessions). Please bring indoor shoes 
- for the program room.**\n\nPre-registration required\n\nCentre: EarlyON Ma
- rkham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/
- calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:624a6c3388718eae@earlyon-cal
-DTSTAMP:20260714T090159Z
-DTSTART;TZID=America/Toronto:20260707T133000
-DTEND;TZID=America/Toronto:20260707T153000
-SUMMARY:Open Door (birth to 6 years old)
-LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
-DESCRIPTION:This informal program offers families the opportunity to drop i
- n for unstructured play and speak with staff members about EarlyON program
- s\, community resources\, arrange individual meetings and discuss referral
- s.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\nDr
- op-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.
- com/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:068045d795e55581@earlyon-cal
-DTSTAMP:20260714T090159Z
-DTSTART;TZID=America/Toronto:20260707T140000
-DTEND;TZID=America/Toronto:20260707T153000
-SUMMARY:Zumbini® for Babies (birth to 12 months)
-LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
-DESCRIPTION:Zumbini® is for you and your baby. It not only provides a wond
- erful workout for adults\, but it also provides the opportunity for infant
- s to experience the sounds and rhythm of the music and movements. Zumbini
- ® encourages parent-infant bonding while enhancing all areas of developme
- nt. It’s a great way connect with other families and educators.\n\nDrop-
- in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc.c
- om/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:6fc66fc3bec510cd@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T090000
 DTEND;TZID=America/Toronto:20260708T110000
 SUMMARY:Ready\, Set\, Move (12 months to 6 years old)
@@ -149,7 +43,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:38e5ff2848bc7854@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T091500
 DTEND;TZID=America/Toronto:20260708T111500
 SUMMARY:Toddler Time (10 months to 30 months)
@@ -166,7 +60,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4eb1039df420407d@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T100000
 DTEND;TZID=America/Toronto:20260708T110000
 SUMMARY:Let's Talk (birth to 6 years old)
@@ -184,7 +78,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f07a259c713a183a@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T120000
 DTEND;TZID=America/Toronto:20260708T133000
 SUMMARY:Open Door (birth to 6 years old)
@@ -199,7 +93,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fceae48a131693d3@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T133000
 DTEND;TZID=America/Toronto:20260708T153000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -219,7 +113,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:13a5b24bc37004e2@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T140000
 DTEND;TZID=America/Toronto:20260708T153000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -234,7 +128,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:10cdcbd729000ed9@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260708T173000
 DTEND;TZID=America/Toronto:20260708T193000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -251,7 +145,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d9557f6fcacf9070@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260709T090000
 DTEND;TZID=America/Toronto:20260709T110000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -270,7 +164,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1f4639418c77cd91@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260709T091500
 DTEND;TZID=America/Toronto:20260709T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -287,7 +181,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c581a5fb488931d8@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260709T133000
 DTEND;TZID=America/Toronto:20260709T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -303,7 +197,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:335a120705b72e86@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260709T133000
 DTEND;TZID=America/Toronto:20260709T153000
 SUMMARY:Messy Play (12 months to 6 years old)
@@ -320,7 +214,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5d1c7c0ec9eb271a@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260709T140000
 DTEND;TZID=America/Toronto:20260709T153000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -336,7 +230,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3832f41fc645473f@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260709T173000
 DTEND;TZID=America/Toronto:20260709T190000
 SUMMARY:Family Fun Outdoors (birth to 6 years old)
@@ -351,7 +245,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fed3f4d6e4fb530d@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260710T090000
 DTEND;TZID=America/Toronto:20260710T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -367,7 +261,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a6f393c4c6db580a@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260710T091500
 DTEND;TZID=America/Toronto:20260710T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -384,7 +278,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8bd9c54a064d9439@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260711T090000
 DTEND;TZID=America/Toronto:20260711T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -401,7 +295,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d04b6b9b2fd9292d@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260711T090000
 DTEND;TZID=America/Toronto:20260711T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -417,7 +311,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:48704d3759a53624@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260711T090000
 DTEND;TZID=America/Toronto:20260711T110000
 SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
@@ -433,7 +327,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b1545b0b2e54a5d9@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260711T110000
 DTEND;TZID=America/Toronto:20260711T130000
 SUMMARY:Open Door (birth to 6 years old)
@@ -448,7 +342,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:60caf932c388bc68@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260711T120000
 DTEND;TZID=America/Toronto:20260711T133000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -465,7 +359,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dc627a4a59deaeae@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260713T090000
 DTEND;TZID=America/Toronto:20260713T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -481,7 +375,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0d2a29d50da4f873@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260713T091500
 DTEND;TZID=America/Toronto:20260713T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -498,7 +392,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:37a578ac10a19267@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260713T133000
 DTEND;TZID=America/Toronto:20260713T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -517,7 +411,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc81b2bdf59a98e@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260713T140000
 DTEND;TZID=America/Toronto:20260713T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -533,7 +427,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c88098706da93f6d@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260714T090000
 DTEND;TZID=America/Toronto:20260714T110000
 SUMMARY:Music and Movement (birth to 6 years old)
@@ -548,7 +442,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0d22ec0579a1f9c1@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260714T091500
 DTEND;TZID=America/Toronto:20260714T111500
 SUMMARY:Exploring STEAM (12 months to 6 years old)
@@ -567,7 +461,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:27657042a7eb70d0@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260714T093000
 DTEND;TZID=America/Toronto:20260714T103000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -587,7 +481,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a7844c00c97836fd@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260714T133000
 DTEND;TZID=America/Toronto:20260714T153000
 SUMMARY:Parent-Child Mother Goose Program® (birth to 12 months)
@@ -608,7 +502,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:574a0d339911dcdc@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260714T133000
 DTEND;TZID=America/Toronto:20260714T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -624,7 +518,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:720677c594d11551@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260714T140000
 DTEND;TZID=America/Toronto:20260714T153000
 SUMMARY:Zumbini® for Babies (birth to 12 months)
@@ -641,7 +535,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cfd830d6dd4aeb65@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260715T090000
 DTEND;TZID=America/Toronto:20260715T110000
 SUMMARY:Ready\, Set\, Move (12 months to 6 years old)
@@ -658,7 +552,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5d5a6d8517660f45@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260715T091500
 DTEND;TZID=America/Toronto:20260715T111500
 SUMMARY:Toddler Time (10 months to 30 months)
@@ -675,7 +569,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dc41bd9c91f8739a@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260715T133000
 DTEND;TZID=America/Toronto:20260715T153000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -695,7 +589,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d9c32514b2ac9c20@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260715T140000
 DTEND;TZID=America/Toronto:20260715T153000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -710,7 +604,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:229aa845f25361af@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260715T173000
 DTEND;TZID=America/Toronto:20260715T193000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -727,7 +621,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bf0eed8e26db3738@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260716T090000
 DTEND;TZID=America/Toronto:20260716T110000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -746,7 +640,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:842fd885de04e7e5@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260716T091500
 DTEND;TZID=America/Toronto:20260716T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -763,7 +657,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:47e62718e14f963d@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260716T133000
 DTEND;TZID=America/Toronto:20260716T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -779,7 +673,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1bef5062d9836178@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260716T140000
 DTEND;TZID=America/Toronto:20260716T153000
 SUMMARY:Creative Chefs (30 months to 6 years old)
@@ -798,7 +692,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:81f9f7c3434ee18e@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260716T140000
 DTEND;TZID=America/Toronto:20260716T153000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -814,7 +708,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5338e042208d3919@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260716T173000
 DTEND;TZID=America/Toronto:20260716T190000
 SUMMARY:Family Fun Outdoors (birth to 6 years old)
@@ -829,7 +723,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4add831727ae5bcc@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260717T090000
 DTEND;TZID=America/Toronto:20260717T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -845,7 +739,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fa56c6e2e2bd92bd@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260717T091500
 DTEND;TZID=America/Toronto:20260717T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -862,7 +756,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9224138369896a8a@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260717T091500
 DTEND;TZID=America/Toronto:20260717T111500
 SUMMARY:Let's Talk (birth to 6 years old)
@@ -884,7 +778,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8835f54485a71676@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260718T090000
 DTEND;TZID=America/Toronto:20260718T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -901,7 +795,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e6754fe27ff97c07@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260718T090000
 DTEND;TZID=America/Toronto:20260718T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -917,7 +811,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:20f29298e4e4f20e@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260718T090000
 DTEND;TZID=America/Toronto:20260718T110000
 SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
@@ -933,7 +827,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9f8be5f51cc4b831@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260718T110000
 DTEND;TZID=America/Toronto:20260718T130000
 SUMMARY:Open Door (birth to 6 years old)
@@ -948,7 +842,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a26cc6090af3c4ec@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260718T120000
 DTEND;TZID=America/Toronto:20260718T133000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -965,7 +859,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f5c7bf7a0d05add0@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260720T090000
 DTEND;TZID=America/Toronto:20260720T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -981,7 +875,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:67ed97494914da75@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260720T091500
 DTEND;TZID=America/Toronto:20260720T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -998,7 +892,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9440d99a3517dadc@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260720T133000
 DTEND;TZID=America/Toronto:20260720T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -1017,7 +911,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2c8ebd2e283befce@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260720T140000
 DTEND;TZID=America/Toronto:20260720T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -1033,7 +927,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e0f949c7cc53cda7@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260721T090000
 DTEND;TZID=America/Toronto:20260721T110000
 SUMMARY:Music and Movement (birth to 6 years old)
@@ -1048,7 +942,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:967ddbfa5aa6b08a@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260721T091500
 DTEND;TZID=America/Toronto:20260721T111500
 SUMMARY:Exploring STEAM (12 months to 6 years old)
@@ -1067,7 +961,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ed086a565b36b910@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260721T093000
 DTEND;TZID=America/Toronto:20260721T103000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -1087,7 +981,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bcafed7a78873425@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260721T133000
 DTEND;TZID=America/Toronto:20260721T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -1103,7 +997,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:912862ba73aaa51d@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260721T133000
 DTEND;TZID=America/Toronto:20260721T153000
 SUMMARY:Infant Massage (birth to 12 months)
@@ -1122,7 +1016,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6089afea7eae3318@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260721T140000
 DTEND;TZID=America/Toronto:20260721T153000
 SUMMARY:Zumbini® for Babies (birth to 12 months)
@@ -1139,7 +1033,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:598844148206132b@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260722T090000
 DTEND;TZID=America/Toronto:20260722T110000
 SUMMARY:Ready\, Set\, Move (12 months to 6 years old)
@@ -1156,7 +1050,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a54a74458e3c45bf@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260722T091500
 DTEND;TZID=America/Toronto:20260722T111500
 SUMMARY:Toddler Time (10 months to 30 months)
@@ -1173,7 +1067,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6d563553d37e92f5@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260722T133000
 DTEND;TZID=America/Toronto:20260722T153000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -1193,7 +1087,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f8af3f65faf3e530@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260722T140000
 DTEND;TZID=America/Toronto:20260722T153000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -1208,7 +1102,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:934459cf098c9757@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260722T173000
 DTEND;TZID=America/Toronto:20260722T193000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1225,7 +1119,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:44876cd68efefb63@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T090000
 DTEND;TZID=America/Toronto:20260723T110000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -1244,7 +1138,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f0dd1940739c1877@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T091500
 DTEND;TZID=America/Toronto:20260723T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1261,7 +1155,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:02a6ab7c12a2667e@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T130000
 DTEND;TZID=America/Toronto:20260723T140000
 SUMMARY:EarlyON Special Event (birth to 6 years old)
@@ -1284,7 +1178,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bf766eaf2af0b17c@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T130000
 DTEND;TZID=America/Toronto:20260723T140000
 SUMMARY:EarlyON Special Event (birth to 6 years old)
@@ -1306,7 +1200,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c13024f1e2506060@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T133000
 DTEND;TZID=America/Toronto:20260723T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -1322,7 +1216,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:36ac58fa9d370ceb@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T133000
 DTEND;TZID=America/Toronto:20260723T153000
 SUMMARY:Messy Play (12 months to 6 years old)
@@ -1339,7 +1233,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2939df4d2b182638@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T140000
 DTEND;TZID=America/Toronto:20260723T153000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -1355,7 +1249,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:df88bb5dcbb818e2@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260723T173000
 DTEND;TZID=America/Toronto:20260723T190000
 SUMMARY:Family Fun Outdoors (birth to 6 years old)
@@ -1370,7 +1264,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e48ebd64804a8c57@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260724T090000
 DTEND;TZID=America/Toronto:20260724T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1386,7 +1280,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:59a3805da4ba30ef@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260724T091500
 DTEND;TZID=America/Toronto:20260724T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1403,7 +1297,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3170b4c3bf88cdf1@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260725T090000
 DTEND;TZID=America/Toronto:20260725T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1420,7 +1314,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:faf9e1404b506162@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260725T090000
 DTEND;TZID=America/Toronto:20260725T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1436,7 +1330,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:49da1a692a08ad37@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260725T090000
 DTEND;TZID=America/Toronto:20260725T110000
 SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
@@ -1452,7 +1346,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:12d1aa06f8702a45@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260725T110000
 DTEND;TZID=America/Toronto:20260725T130000
 SUMMARY:Open Door (birth to 6 years old)
@@ -1467,7 +1361,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3bdcdda7dbddaedc@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260725T120000
 DTEND;TZID=America/Toronto:20260725T133000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1484,7 +1378,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ba29cc3b5543a26f@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260727T090000
 DTEND;TZID=America/Toronto:20260727T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1500,7 +1394,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e9b0b38232c311fd@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260727T091500
 DTEND;TZID=America/Toronto:20260727T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1517,7 +1411,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b2c6c9f47c2223@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260727T133000
 DTEND;TZID=America/Toronto:20260727T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -1536,7 +1430,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb687d0da6d99cb6@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260727T140000
 DTEND;TZID=America/Toronto:20260727T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -1552,7 +1446,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:567cd776152981d2@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260728T090000
 DTEND;TZID=America/Toronto:20260728T110000
 SUMMARY:Music and Movement (birth to 6 years old)
@@ -1567,7 +1461,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cb52e2d28fa94b37@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260728T091500
 DTEND;TZID=America/Toronto:20260728T111500
 SUMMARY:Exploring STEAM (12 months to 6 years old)
@@ -1586,7 +1480,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a0beabe17241dc76@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260728T093000
 DTEND;TZID=America/Toronto:20260728T103000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -1606,7 +1500,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dbb4aeb57ff92ce8@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260728T133000
 DTEND;TZID=America/Toronto:20260728T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -1622,7 +1516,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4648c736f0b94221@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260728T133000
 DTEND;TZID=America/Toronto:20260728T153000
 SUMMARY:Infant Massage (birth to 12 months)
@@ -1641,7 +1535,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d435a55d8bfc7d94@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260728T140000
 DTEND;TZID=America/Toronto:20260728T153000
 SUMMARY:Zumbini® for Babies (birth to 12 months)
@@ -1658,7 +1552,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:23bacc32ff40b179@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260729T090000
 DTEND;TZID=America/Toronto:20260729T110000
 SUMMARY:Ready\, Set\, Move (12 months to 6 years old)
@@ -1675,7 +1569,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3131720bb90ec358@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260729T091500
 DTEND;TZID=America/Toronto:20260729T111500
 SUMMARY:Toddler Time (10 months to 30 months)
@@ -1692,7 +1586,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ad25d617249c5e88@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260729T133000
 DTEND;TZID=America/Toronto:20260729T153000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -1712,7 +1606,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4da7bed8cdcf5687@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260729T140000
 DTEND;TZID=America/Toronto:20260729T153000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -1727,7 +1621,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a44cef76ce2f403f@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260729T173000
 DTEND;TZID=America/Toronto:20260729T193000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1744,7 +1638,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c9af0985fcf4ee05@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260730T090000
 DTEND;TZID=America/Toronto:20260730T110000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -1763,7 +1657,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bc0dd6a2eb25d31c@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260730T091500
 DTEND;TZID=America/Toronto:20260730T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1780,7 +1674,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ba97858847463edb@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260730T133000
 DTEND;TZID=America/Toronto:20260730T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -1796,7 +1690,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:709a14ef08f20352@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260730T133000
 DTEND;TZID=America/Toronto:20260730T153000
 SUMMARY:Stories Come Alive (30 months to 6 years old)
@@ -1814,7 +1708,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eb93765b8a1f0395@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260730T140000
 DTEND;TZID=America/Toronto:20260730T153000
 SUMMARY:Songs\, Rhymes\, and Stories in Mandarin (birth to 6 years old)
@@ -1830,7 +1724,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a9c0996842e946de@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260730T173000
 DTEND;TZID=America/Toronto:20260730T190000
 SUMMARY:Family Fun Outdoors (birth to 6 years old)
@@ -1845,7 +1739,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b6d624f0f4e157cd@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260731T090000
 DTEND;TZID=America/Toronto:20260731T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1861,7 +1755,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:acd46b22fddb82aa@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260731T091500
 DTEND;TZID=America/Toronto:20260731T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1877,8 +1771,32 @@ URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f3b921abeba24c21@earlyon-cal
+DTSTAMP:20260715T090727Z
+DTSTART;TZID=America/Toronto:20260804T090000
+DTEND;TZID=America/Toronto:20260804T110000
+SUMMARY:Triple P® Seminar: The Power of Positive Parenting (birth to 6 yea
+ rs old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This small group seminar is for parents and caregivers who have
+  ever wondered "Why does my child do that?" It will help you understand th
+ e reasons children do what they do\, so you can guide their behaviour and 
+ see more of the behaviour you like\, and less of the behaviour you do not 
+ like. It’s a great way to connect with other families and educators.\n\n
+ **Triple P VIRTUAL Seminar 1. Zoom link will be provided in advance.**\n*N
+ ote: If you register AFTER July 31\, please email earlyonmarkham@familyday
+ care.com to request the link to join.*\n\nOther Triple P Seminars this mon
+ th:\n* Triple P Virtual Seminar 2 (Raising Confident\, Competent Children)
+ : August 11\, 9-11am\n* Triple P Virtual Seminar 3 (Raising Resilient Chil
+ dren): August 18\, 9-11am\n\nPre-registration required\, Virtual\n\nCentre
+ : EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/york/en
+ -ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:62439214bbdff2d7@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260804T133000
 DTEND;TZID=America/Toronto:20260804T153000
 SUMMARY:Infant Massage (birth to 12 months)
@@ -1896,8 +1814,32 @@ URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f211aaa72980e489@earlyon-cal
+DTSTAMP:20260715T090727Z
+DTSTART;TZID=America/Toronto:20260811T090000
+DTEND;TZID=America/Toronto:20260811T110000
+SUMMARY:Triple P® Seminar: Raising Confident\, Competent Children (birth t
+ o 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This small group seminar is for parents and caregivers. It offe
+ rs strategies to help you help your child(ren) to become confident and suc
+ cessful. Find out ways to encourage your child(ren) to be respectful and c
+ onsiderate\, communicate and get on well with others\, feel good about the
+ mselves and become independent problem solvers. It’s a great way to conn
+ ect with other families and educators.\n\n**Triple P VIRTUAL Seminar 2. Zo
+ om link will be provided in advance.**\n*Note: If you register AFTER Augus
+ t 7\, please email earlyonmarkham@familydaycare.com to request the link to
+  join.*\n\nOther Triple P Seminars this month:\n* Triple P Virtual Seminar
+  1 (The Power of Positive Parenting): August 4\, 9-11am\n* Triple P Virtua
+ l Seminar 3 (Raising Resilient Children): August 18\, 9-11am\n\nPre-regist
+ ration required\, Virtual\n\nCentre: EarlyON Markham Centre\n\nSource: htt
+ ps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:fbec8949fe90bfcf@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260811T133000
 DTEND;TZID=America/Toronto:20260811T153000
 SUMMARY:Infant Massage (birth to 12 months)
@@ -1915,8 +1857,32 @@ URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:e56536a171e18f85@earlyon-cal
+DTSTAMP:20260715T090727Z
+DTSTART;TZID=America/Toronto:20260818T090000
+DTEND;TZID=America/Toronto:20260818T110000
+SUMMARY:Triple P® Seminar: Raising Resilient Children (birth to 6 years ol
+ d)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This small group seminar is for parents and caregivers who want
+  to help their child(ren) manage their emotions\, so they cope well with d
+ isappointment and stressful situations. Learn strategies that will allow c
+ hildren to recognize positive and negative emotions\, and deal with them i
+ n healthy ways. It’s a great way to connect with other families and educ
+ ators.\n\n**Triple P VIRTUAL Seminar 3. Zoom link will be provided in adva
+ nce.**\n*Note: If you register AFTER August 14\, please email earlyonmarkh
+ am@familydaycare.com to request the link to join.*\n\nOther Triple P Semin
+ ars this month:\n* Triple P Virtual Seminar 1 (The Power of Positive Paren
+ ting): August 4\, 9-11am\n* Triple P Virtual Seminar 2 (Raising Confident\
+ , Competent Children): August 11\, 9-11am\n\nPre-registration required\, V
+ irtual\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc
+ .com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:b83672d2a1911e27@earlyon-cal
-DTSTAMP:20260714T090159Z
+DTSTAMP:20260715T090727Z
 DTSTART;TZID=America/Toronto:20260818T133000
 DTEND;TZID=America/Toronto:20260818T153000
 SUMMARY:Infant Massage (birth to 12 months)
@@ -1930,6 +1896,29 @@ DESCRIPTION:This program promotes nurturing touch and communication. It tea
  sessions). Please bring indoor shoes (or socks) for the program room.**\n\
  nPre-registration required\n\nCentre: EarlyON Markham Centre\n\nSource: ht
  tps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:86b5cb5b4c7224b4@earlyon-cal
+DTSTAMP:20260715T090727Z
+DTSTART;TZID=America/Toronto:20260827T100000
+DTEND;TZID=America/Toronto:20260827T111500
+SUMMARY:EarlyON Special Event (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to special learnin
+ g experiences\, including\, but not limited to\, celebrations\, invited gu
+ ests and field trips. It provides great opportunities to explore community
+  resources and connect with other families and educators.\n\n**SPECIAL OUT
+ DOOR EVENT WITH CONSTABLE GREG FROM YORK REGIONAL POLICE**\n\nThis program
+  invites you and your child(ren) to enjoy some fun\, interactive experienc
+ es in our outdoor space\, plus explore a real YRP cruiser! \n\n*Constable 
+ Greg is a police officer recognized for his community outreach work\, nota
+ bly serving as \na prominent youth mentor and ambassador for policing prog
+ rams in the Greater Toronto Area. Greg and his family regularly attend Ear
+ lyON Programs in the Markham area.*\n\nPre-registration required\, Outdoor
+ \n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/c
+ so/york/en-ca/earlyon/calendar
 URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
 TRANSP:OPAQUE
 END:VEVENT
