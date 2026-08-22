@@ -25,41 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4a96ad8a78608841@earlyon-cal
-DTSTAMP:20260821T073902Z
-DTSTART;TZID=America/Toronto:20260814T090000
-DTEND;TZID=America/Toronto:20260814T110000
-SUMMARY:Play\, Learn and Connect (birth to 6 years old)
-LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
-DESCRIPTION:This program invites you and your child(ren) to engage in exper
- iences that promote early learning\, social skills\, and creativity. Toget
- her you may explore songs\, stories\, and hands-on activities through inte
- ractive play. It’s a great way to connect with other families and educat
- ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
- .missioninc.com/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:93d76b80888f54d7@earlyon-cal
-DTSTAMP:20260821T073902Z
-DTSTART;TZID=America/Toronto:20260814T091500
-DTEND;TZID=America/Toronto:20260814T111500
-SUMMARY:Play\, Learn and Connect (birth to 6 years old)
-LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
-DESCRIPTION:This program invites you and your child(ren) to engage in exper
- iences that promote early learning\, social skills\, and creativity. Toget
- her you may explore songs\, stories\, and hands-on activities through inte
- ractive play. It’s a great way to connect with other families and educat
- ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
- Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
- c.com/cso/york/en-ca/earlyon/calendar
-URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:126082242252e8e1@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260815T090000
 DTEND;TZID=America/Toronto:20260815T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -76,7 +43,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3595cba20390a69@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260815T090000
 DTEND;TZID=America/Toronto:20260815T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -92,7 +59,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:24f341f3737dac19@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260815T090000
 DTEND;TZID=America/Toronto:20260815T110000
 SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
@@ -108,7 +75,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cb6110db5be02f31@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260815T110000
 DTEND;TZID=America/Toronto:20260815T130000
 SUMMARY:Open Door (birth to 6 years old)
@@ -123,7 +90,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ea28e849777806ce@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260815T120000
 DTEND;TZID=America/Toronto:20260815T133000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -140,7 +107,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b22ef3b91629d11a@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260817T090000
 DTEND;TZID=America/Toronto:20260817T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -156,7 +123,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bcb317ee3c5898a4@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260817T091500
 DTEND;TZID=America/Toronto:20260817T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -173,7 +140,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8422e39420b5c390@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260817T133000
 DTEND;TZID=America/Toronto:20260817T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -192,7 +159,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:103065a79d5fe12b@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260817T140000
 DTEND;TZID=America/Toronto:20260817T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -208,7 +175,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e56536a171e18f85@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260818T090000
 DTEND;TZID=America/Toronto:20260818T110000
 SUMMARY:Triple P® Seminar: Raising Resilient Children (birth to 6 years ol
@@ -232,7 +199,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3d2a9026a415b2ff@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260818T090000
 DTEND;TZID=America/Toronto:20260818T110000
 SUMMARY:Music and Movement (birth to 6 years old)
@@ -247,7 +214,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fe7fc684a866e513@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260818T091500
 DTEND;TZID=America/Toronto:20260818T111500
 SUMMARY:Exploring STEAM (12 months to 6 years old)
@@ -266,7 +233,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b83672d2a1911e27@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260818T133000
 DTEND;TZID=America/Toronto:20260818T153000
 SUMMARY:Infant Massage (birth to 12 months)
@@ -285,7 +252,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f456790de8e391e1@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260818T133000
 DTEND;TZID=America/Toronto:20260818T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -301,7 +268,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:27e356ced26712d3@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260818T140000
 DTEND;TZID=America/Toronto:20260818T153000
 SUMMARY:Zumbini® for Babies (birth to 12 months)
@@ -319,7 +286,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:61b30c9d0aab5ff8@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260819T090000
 DTEND;TZID=America/Toronto:20260819T110000
 SUMMARY:Ready\, Set\, Move (12 months to 6 years old)
@@ -336,7 +303,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ea7ac7f017387c88@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260819T091500
 DTEND;TZID=America/Toronto:20260819T111500
 SUMMARY:Toddler Time (10 months to 30 months)
@@ -353,7 +320,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8cd2a22b7c23a3f6@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260819T133000
 DTEND;TZID=America/Toronto:20260819T153000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -373,7 +340,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ba347f9ee3eb17e@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260819T140000
 DTEND;TZID=America/Toronto:20260819T153000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -388,7 +355,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b961b980c064800e@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260819T173000
 DTEND;TZID=America/Toronto:20260819T193000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -405,7 +372,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8fecabda4a7baa43@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260820T090000
 DTEND;TZID=America/Toronto:20260820T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -421,7 +388,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:72082bf3dfbfa122@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260820T091500
 DTEND;TZID=America/Toronto:20260820T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -438,7 +405,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:22063ba5c105311f@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260820T133000
 DTEND;TZID=America/Toronto:20260820T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -454,7 +421,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2b71855c939abc09@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260820T133000
 DTEND;TZID=America/Toronto:20260820T153000
 SUMMARY:Messy Play (12 months to 6 years old)
@@ -471,7 +438,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cf0180eed524f1e1@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260820T140000
 DTEND;TZID=America/Toronto:20260820T153000
 SUMMARY:Songs\, Rhymes\, and Stories (birth to 6 years old)
@@ -487,7 +454,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:03990daae056705d@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260820T173000
 DTEND;TZID=America/Toronto:20260820T190000
 SUMMARY:Family Fun Outdoors (birth to 6 years old)
@@ -502,7 +469,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f361988c19122527@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260821T090000
 DTEND;TZID=America/Toronto:20260821T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -518,7 +485,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:350601b3f94b93aa@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260821T091500
 DTEND;TZID=America/Toronto:20260821T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -535,7 +502,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:290473b3bfbcadce@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260822T090000
 DTEND;TZID=America/Toronto:20260822T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -552,7 +519,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2d8ecf8cfe829261@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260822T090000
 DTEND;TZID=America/Toronto:20260822T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -568,7 +535,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f521eb0ca4683213@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260822T090000
 DTEND;TZID=America/Toronto:20260822T110000
 SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
@@ -584,7 +551,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0adea79c032cf443@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260822T110000
 DTEND;TZID=America/Toronto:20260822T130000
 SUMMARY:Open Door (birth to 6 years old)
@@ -599,7 +566,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6d6546ae3970b815@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260822T120000
 DTEND;TZID=America/Toronto:20260822T133000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -616,7 +583,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d322556f4ba1ffa2@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260824T090000
 DTEND;TZID=America/Toronto:20260824T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -632,7 +599,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4c3328158248ba00@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260824T091500
 DTEND;TZID=America/Toronto:20260824T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -649,7 +616,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5aa8e4c78d54cb18@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260824T133000
 DTEND;TZID=America/Toronto:20260824T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -668,7 +635,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:09a121142cc3644b@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260824T140000
 DTEND;TZID=America/Toronto:20260824T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -684,7 +651,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b1bea6cf09f6db30@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260825T090000
 DTEND;TZID=America/Toronto:20260825T110000
 SUMMARY:Music and Movement (birth to 6 years old)
@@ -699,7 +666,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2532932493e60686@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260825T091500
 DTEND;TZID=America/Toronto:20260825T111500
 SUMMARY:Exploring STEAM (12 months to 6 years old)
@@ -718,7 +685,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3d9b2bf78a7ef195@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260825T133000
 DTEND;TZID=America/Toronto:20260825T150000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -735,7 +702,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:14c136490be41bd3@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260825T133000
 DTEND;TZID=America/Toronto:20260825T150000
 SUMMARY:Open Door (birth to 6 years old)
@@ -751,7 +718,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6ae9942e43b0f0@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260825T140000
 DTEND;TZID=America/Toronto:20260825T153000
 SUMMARY:Zumbini® for Babies (birth to 12 months)
@@ -769,7 +736,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8ca130a3374e2d11@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260826T090000
 DTEND;TZID=America/Toronto:20260826T110000
 SUMMARY:Ready\, Set\, Move (12 months to 6 years old)
@@ -786,7 +753,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:af9ad1a7cba319cf@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260826T091500
 DTEND;TZID=America/Toronto:20260826T111500
 SUMMARY:Toddler Time (10 months to 30 months)
@@ -803,7 +770,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d877d0b9528ca037@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260826T133000
 DTEND;TZID=America/Toronto:20260826T153000
 SUMMARY:Let’s Create (12 months to 6 years old)
@@ -823,7 +790,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a01815a3102b1373@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260826T140000
 DTEND;TZID=America/Toronto:20260826T153000
 SUMMARY:Baby Music and Movement (birth to 12 months)
@@ -838,7 +805,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:36c70e2f7bd019af@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260826T173000
 DTEND;TZID=America/Toronto:20260826T193000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -855,7 +822,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b89c749b052f94e1@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T090000
 DTEND;TZID=America/Toronto:20260827T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -871,7 +838,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:76d84d306a0cc6db@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T091500
 DTEND;TZID=America/Toronto:20260827T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -888,7 +855,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:86b5cb5b4c7224b4@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T100000
 DTEND;TZID=America/Toronto:20260827T111500
 SUMMARY:EarlyON Special Event (birth to 6 years old)
@@ -911,7 +878,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c04669fb7a967b9a@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T133000
 DTEND;TZID=America/Toronto:20260827T153000
 SUMMARY:Open Door (birth to 6 years old)
@@ -927,7 +894,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4952695d835732f4@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T133000
 DTEND;TZID=America/Toronto:20260827T153000
 SUMMARY:Stories Come Alive (30 months to 6 years old)
@@ -945,7 +912,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1633ae3ed98088de@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T140000
 DTEND;TZID=America/Toronto:20260827T153000
 SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
@@ -961,7 +928,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:9b6f48e7c5f4355c@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260827T173000
 DTEND;TZID=America/Toronto:20260827T190000
 SUMMARY:Family Fun Outdoors (birth to 6 years old)
@@ -976,7 +943,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:376ea299612f4a2d@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260828T090000
 DTEND;TZID=America/Toronto:20260828T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -992,7 +959,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e09447fb97b7f4b2@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260828T091500
 DTEND;TZID=America/Toronto:20260828T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1009,7 +976,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1d82d5372af1143c@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260829T090000
 DTEND;TZID=America/Toronto:20260829T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1026,7 +993,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:381caa5e0d5da803@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260829T090000
 DTEND;TZID=America/Toronto:20260829T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1042,7 +1009,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:91e0d4058fa14c50@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260829T090000
 DTEND;TZID=America/Toronto:20260829T110000
 SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
@@ -1058,7 +1025,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7cf3fc7193fd795b@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260829T110000
 DTEND;TZID=America/Toronto:20260829T130000
 SUMMARY:Open Door (birth to 6 years old)
@@ -1073,7 +1040,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2d7ed3274db4c582@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260829T120000
 DTEND;TZID=America/Toronto:20260829T133000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1090,7 +1057,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a82a50df9d249408@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260831T090000
 DTEND;TZID=America/Toronto:20260831T110000
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1106,7 +1073,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c5b3544d4da61390@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260831T091500
 DTEND;TZID=America/Toronto:20260831T111500
 SUMMARY:Play\, Learn and Connect (birth to 6 years old)
@@ -1123,7 +1090,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c7bf19e3043d0dd6@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260831T133000
 DTEND;TZID=America/Toronto:20260831T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -1142,7 +1109,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e4bc6f1d2f40f27b@earlyon-cal
-DTSTAMP:20260821T073902Z
+DTSTAMP:20260822T072753Z
 DTSTART;TZID=America/Toronto:20260831T140000
 DTEND;TZID=America/Toronto:20260831T153000
 SUMMARY:Baby and Me (birth to 12 months)
@@ -1153,6 +1120,1760 @@ DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
  a great way to connect with your baby\, other families and educators.\n\nD
  rop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioni
  nc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3db52ccbcde1ac@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260901T090000
+DTEND;TZID=America/Toronto:20260901T110000
+SUMMARY:Music and Movement (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy music and
+  movement together. We’ll sing songs\, play with instruments and materia
+ ls that help support healthy development while connecting with other famil
+ ies and educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSourc
+ e: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:874461daf010558a@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260901T091500
+DTEND;TZID=America/Toronto:20260901T111500
+SUMMARY:Exploring STEAM (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore STEAM (
+ science\, technology\, engineering\, art\, and math) ideas. Children will 
+ investigate\, play\, communicate\, and experiment\, making learning a fun 
+ and interactive experience. Join us to discover the exciting world of STEA
+ M and watch your child’s curiosity and creativity grow! It’s a great w
+ ay to connect with other families and educators.\n\n**Please bring indoor 
+ shoes (or socks) for the program room.**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:54cdd8a08d03ccce@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260901T133000
+DTEND;TZID=America/Toronto:20260901T150000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\n**Please bring indoor shoes (or socks) for the program roo
+ m (or non-slip grippy socks for baby).**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8caa0c80961902e0@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260901T140000
+DTEND;TZID=America/Toronto:20260901T153000
+SUMMARY:Zumbini® for Babies (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:Zumbini® is for you and your baby. It not only provides a wond
+ erful workout for adults\, but it also provides the opportunity for infant
+ s to experience the sounds and rhythm of the music and movements. Zumbini
+ ® encourages parent-infant bonding while enhancing all areas of developme
+ nt. It’s a great way connect with other families and educators.\n\nDrop-
+ in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc.c
+ om/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70989b9bfe50df16@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260902T090000
+DTEND;TZID=America/Toronto:20260902T110000
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\nCentre:
+  EarlyON Thornhill Centre\n\nSource: https://www.missioninc.com/cso/york/e
+ n-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:83ecef3739dc187f@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260902T091500
+DTEND;TZID=America/Toronto:20260902T111500
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\n**Pleas
+ e bring indoor shoes (or socks) for the program room.**\n\nDrop-in\n\nCent
+ re: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/york/
+ en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:222940b218686775@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260902T133000
+DTEND;TZID=America/Toronto:20260902T153000
+SUMMARY:Playful Math (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:Math is everywhere around us! This program invites you and your
+  child(ren) to explore how math can be part of everyday play through fun a
+ ctivities\, songs and stories. This program helps children see and enjoy m
+ ath in their daily lives. It’s a great way to connect with other familie
+ s and educators.\n\n**Please bring indoor shoes (or socks) for the program
+  room.**\n\nDrop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0c5b6046aad0c7@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260902T140000
+DTEND;TZID=America/Toronto:20260902T153000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: htt
+ ps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0f7ae60fb48cc1@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260902T173000
+DTEND;TZID=America/Toronto:20260902T193000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:27e116ecc39dff29@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260903T090000
+DTEND;TZID=America/Toronto:20260903T110000
+SUMMARY:Let’s Create (12 months to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to nurture creativ
+ ity through easy\, open-ended\, and fun artistic activities. These engagin
+ g activities may use common household items and may include arts and craft
+ s\, drawing\, painting\, and sculpting. Activities help children build con
+ fidence and enjoy creative exploration. Parents are encouraged to join in\
+ , making it a bonding experience that strengthens the parent-child relatio
+ nship. It’s a great way to connect with other families and educators.\n\
+ nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missio
+ ninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc084786d3369b7a@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260903T091500
+DTEND;TZID=America/Toronto:20260903T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:139e47ad50f984c9@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260903T133000
+DTEND;TZID=America/Toronto:20260903T150000
+SUMMARY:Drumming (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore and exp
+ ress music with your body\, mind\, and soul through drumming. Engaging you
+  through rhythm and beat\, it fosters a sense of community. It’s a great
+  way to connect with other families and educators.\n\n**Please bring indoo
+ r shoes (or socks) for the program room.**\n\nPre-registration required\n\
+ nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/
+ york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c107868672e6e513@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260903T133000
+DTEND;TZID=America/Toronto:20260903T150000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\nDr
+ op-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.
+ com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5585a001024c7fad@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260903T140000
+DTEND;TZID=America/Toronto:20260903T153000
+SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in singi
+ ng\, rhyming\, and storytelling! This program supports development of lang
+ uage and literacy skills in a fun and engaging way. It’s a great way to 
+ connect with other families and educators.\n\nDrop-in\n\nCentre: EarlyON T
+ hornhill Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/early
+ on/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:39939484b623cdd6@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260903T173000
+DTEND;TZID=America/Toronto:20260903T190000
+SUMMARY:Family Fun Outdoors (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy some fun\
+ , interactive experiences in a variety of outdoor spaces. Dress for the we
+ ather. It's a great way to connect with other families and educators.\n\nD
+ rop-in\, Outdoor\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://ww
+ w.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b812ce465b87e4d@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260904T090000
+DTEND;TZID=America/Toronto:20260904T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc0099156f38d6c@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260904T091500
+DTEND;TZID=America/Toronto:20260904T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:896af12cec18ec50@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260905T090000
+DTEND;TZID=America/Toronto:20260905T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:912a905d6ad35297@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260905T090000
+DTEND;TZID=America/Toronto:20260905T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:41cfdb6d8071b1d1@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260905T110000
+DTEND;TZID=America/Toronto:20260905T130000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.m
+ issioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9da5194bac23d883@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260905T120000
+DTEND;TZID=America/Toronto:20260905T133000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5984428fd74a76cc@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260908T090000
+DTEND;TZID=America/Toronto:20260908T110000
+SUMMARY:Music and Movement (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy music and
+  movement together. We’ll sing songs\, play with instruments and materia
+ ls that help support healthy development while connecting with other famil
+ ies and educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSourc
+ e: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9255c6d2b4b2dd17@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260908T091500
+DTEND;TZID=America/Toronto:20260908T111500
+SUMMARY:Exploring STEAM (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore STEAM (
+ science\, technology\, engineering\, art\, and math) ideas. Children will 
+ investigate\, play\, communicate\, and experiment\, making learning a fun 
+ and interactive experience. Join us to discover the exciting world of STEA
+ M and watch your child’s curiosity and creativity grow! It’s a great w
+ ay to connect with other families and educators.\n\n**Please bring indoor 
+ shoes (or socks) for the program room.**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e446d9d21e261bf0@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260908T094500
+DTEND;TZID=America/Toronto:20260908T110000
+SUMMARY:Creative Chefs (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to participate in 
+ fun and interactive early learning experiences while preparing healthy and
+  nutritious food. Resources on healthy eating and nutrition will be made a
+ vailable. It’s a great way to connect with other families and educators.
+ \n\n**This 3-session VIRTUAL Program will take place via Zoom. The program
+  link and ingredient list will be provided in advance of each session.**\n
+ \nPre-registration required\, Virtual\n\nCentre: EarlyON Markham Centre\n\
+ nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:78f83b16961c1526@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260908T133000
+DTEND;TZID=America/Toronto:20260908T150000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\n**Please bring indoor shoes (or socks) for the program roo
+ m (or non-slip grippy socks for baby).**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f83d303aad2eb7f@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260908T140000
+DTEND;TZID=America/Toronto:20260908T153000
+SUMMARY:Zumbini® for Babies (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:Zumbini® is for you and your baby. It not only provides a wond
+ erful workout for adults\, but it also provides the opportunity for infant
+ s to experience the sounds and rhythm of the music and movements. Zumbini
+ ® encourages parent-infant bonding while enhancing all areas of developme
+ nt. It’s a great way connect with other families and educators.\n\nDrop-
+ in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc.c
+ om/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad39701c03e93a1@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260909T090000
+DTEND;TZID=America/Toronto:20260909T110000
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\nCentre:
+  EarlyON Thornhill Centre\n\nSource: https://www.missioninc.com/cso/york/e
+ n-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:36acb2d1ca7858f2@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260909T091500
+DTEND;TZID=America/Toronto:20260909T111500
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\n**Pleas
+ e bring indoor shoes (or socks) for the program room.**\n\nDrop-in\n\nCent
+ re: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/york/
+ en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2053fd4c9c9f0ec0@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260909T133000
+DTEND;TZID=America/Toronto:20260909T153000
+SUMMARY:Playful Math (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:Math is everywhere around us! This program invites you and your
+  child(ren) to explore how math can be part of everyday play through fun a
+ ctivities\, songs and stories. This program helps children see and enjoy m
+ ath in their daily lives. It’s a great way to connect with other familie
+ s and educators.\n\n**Please bring indoor shoes (or socks) for the program
+  room.**\n\nDrop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b8a4bb93470d98@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260909T140000
+DTEND;TZID=America/Toronto:20260909T153000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: htt
+ ps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c939b08edea444@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260909T173000
+DTEND;TZID=America/Toronto:20260909T193000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb39da1c4d7b6404@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260910T090000
+DTEND;TZID=America/Toronto:20260910T110000
+SUMMARY:Let’s Create (12 months to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to nurture creativ
+ ity through easy\, open-ended\, and fun artistic activities. These engagin
+ g activities may use common household items and may include arts and craft
+ s\, drawing\, painting\, and sculpting. Activities help children build con
+ fidence and enjoy creative exploration. Parents are encouraged to join in\
+ , making it a bonding experience that strengthens the parent-child relatio
+ nship. It’s a great way to connect with other families and educators.\n\
+ nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missio
+ ninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7706bea36aaafaee@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260910T091500
+DTEND;TZID=America/Toronto:20260910T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d3bfc6336619d7@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260910T133000
+DTEND;TZID=America/Toronto:20260910T150000
+SUMMARY:Drumming (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore and exp
+ ress music with your body\, mind\, and soul through drumming. Engaging you
+  through rhythm and beat\, it fosters a sense of community. It’s a great
+  way to connect with other families and educators.\n\n**Please bring indoo
+ r shoes (or socks) for the program room.**\n\nPre-registration required\n\
+ nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/
+ york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5bee4dbcfcdc27df@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260910T133000
+DTEND;TZID=America/Toronto:20260910T150000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\nDr
+ op-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.
+ com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfb4f31bf65c6e0@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260910T140000
+DTEND;TZID=America/Toronto:20260910T153000
+SUMMARY:Songs\, Rhymes\, and Stories in Mandarin (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in singi
+ ng\, rhyming\, and storytelling! This program supports development of lang
+ uage and literacy skills in a fun and engaging way. It’s a great way to 
+ connect with other families and educators.\n\nDrop-in\n\nCentre: EarlyON T
+ hornhill Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/early
+ on/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1cef86bc17db99@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260910T173000
+DTEND;TZID=America/Toronto:20260910T190000
+SUMMARY:Family Fun Outdoors (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy some fun\
+ , interactive experiences in a variety of outdoor spaces. Dress for the we
+ ather. It's a great way to connect with other families and educators.\n\nD
+ rop-in\, Outdoor\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://ww
+ w.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:09a0082f6d796e36@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260911T090000
+DTEND;TZID=America/Toronto:20260911T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e38b6c25e1518e@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260911T091500
+DTEND;TZID=America/Toronto:20260911T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2abfb7fc6d269592@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260912T090000
+DTEND;TZID=America/Toronto:20260912T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9367c03a786c6c71@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260912T090000
+DTEND;TZID=America/Toronto:20260912T110000
+SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites men and their child(ren) to engage in expe
+ riences that promote early learning\, social skills\, and creativity. Toge
+ ther you will explore songs\, stories\, and hands-on activities through in
+ teractive play. It’s a great way to connect with other families and educ
+ ators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:edf2573c58c5ea7a@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260912T110000
+DTEND;TZID=America/Toronto:20260912T130000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.m
+ issioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d119c544444465c6@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260914T090000
+DTEND;TZID=America/Toronto:20260914T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:24d7332c342b0b32@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260914T091500
+DTEND;TZID=America/Toronto:20260914T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b34bea93c16ab372@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260914T133000
+DTEND;TZID=America/Toronto:20260914T153000
+SUMMARY:Baby and Me (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
+ nd experiences designed to help you connect with your baby. Enjoy engaging
+  conversations and information sharing on healthy child development. It's 
+ a great way to connect with your baby\, other families and educators.\n\n*
+ *Please bring indoor shoes (or socks) for the program room (and non-slip g
+ rippy socks for baby).**\n\n*Note: Program will include active learning ex
+ periences that may help develop your child's gross motor skills.*\n\nDrop-
+ in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com
+ /cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbcdf15394916ebe@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260914T140000
+DTEND;TZID=America/Toronto:20260914T153000
+SUMMARY:Baby and Me (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
+ nd experiences designed to help you connect with your baby. Enjoy engaging
+  conversations and information sharing on healthy child development. It's 
+ a great way to connect with your baby\, other families and educators.\n\n*
+ *Baby and Me – Treasure baskets**\nThis is a 3-week program. You and you
+ r baby are invited to join us to explore Treasure Baskets through songs\, 
+ rhymes\, and experiences designed to help you connect with your baby. Trea
+ sure Baskets offer children the opportunity to engage their senses fully. 
+ They can touch\, taste\, hear\, smell\, and see a diverse range of texture
+ s\, inviting them to experiment and make choices.\n\nPre-registration requ
+ ired\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc
+ .com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a935a8e37963cfe2@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260915T090000
+DTEND;TZID=America/Toronto:20260915T110000
+SUMMARY:Music and Movement (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy music and
+  movement together. We’ll sing songs\, play with instruments and materia
+ ls that help support healthy development while connecting with other famil
+ ies and educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSourc
+ e: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4ae907feeb7e85@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260915T091500
+DTEND;TZID=America/Toronto:20260915T111500
+SUMMARY:Exploring STEAM (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore STEAM (
+ science\, technology\, engineering\, art\, and math) ideas. Children will 
+ investigate\, play\, communicate\, and experiment\, making learning a fun 
+ and interactive experience. Join us to discover the exciting world of STEA
+ M and watch your child’s curiosity and creativity grow! It’s a great w
+ ay to connect with other families and educators.\n\n**Please bring indoor 
+ shoes (or socks) for the program room.**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d398a8d6f2e97a6e@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260915T094500
+DTEND;TZID=America/Toronto:20260915T110000
+SUMMARY:Creative Chefs (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to participate in 
+ fun and interactive early learning experiences while preparing healthy and
+  nutritious food. Resources on healthy eating and nutrition will be made a
+ vailable. It’s a great way to connect with other families and educators.
+ \n\n**This 3-session VIRTUAL Program will take place via Zoom. The program
+  link and ingredient list will be provided in advance of each session.**\n
+ \nPre-registration required\, Virtual\n\nCentre: EarlyON Markham Centre\n\
+ nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9979e4bc7c250c@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260915T133000
+DTEND;TZID=America/Toronto:20260915T150000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\n**Please bring indoor shoes (or socks) for the program roo
+ m (or non-slip grippy socks for baby).**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7b5f2b2fb614ba0@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260915T140000
+DTEND;TZID=America/Toronto:20260915T153000
+SUMMARY:Zumbini® for Babies (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:Zumbini® is for you and your baby. It not only provides a wond
+ erful workout for adults\, but it also provides the opportunity for infant
+ s to experience the sounds and rhythm of the music and movements. Zumbini
+ ® encourages parent-infant bonding while enhancing all areas of developme
+ nt. It’s a great way connect with other families and educators.\n\nDrop-
+ in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc.c
+ om/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b4f5ba32c2e1b52@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260916T090000
+DTEND;TZID=America/Toronto:20260916T110000
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\nCentre:
+  EarlyON Thornhill Centre\n\nSource: https://www.missioninc.com/cso/york/e
+ n-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:72a4b1c73fa92c66@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260916T091500
+DTEND;TZID=America/Toronto:20260916T111500
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\n**Pleas
+ e bring indoor shoes (or socks) for the program room.**\n\nDrop-in\n\nCent
+ re: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/york/
+ en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:00e916b6d8a2942a@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260916T133000
+DTEND;TZID=America/Toronto:20260916T153000
+SUMMARY:Playful Math (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:Math is everywhere around us! This program invites you and your
+  child(ren) to explore how math can be part of everyday play through fun a
+ ctivities\, songs and stories. This program helps children see and enjoy m
+ ath in their daily lives. It’s a great way to connect with other familie
+ s and educators.\n\n**Please bring indoor shoes (or socks) for the program
+  room.**\n\nDrop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f91009045dbc0d9@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260916T140000
+DTEND;TZID=America/Toronto:20260916T153000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: htt
+ ps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94b194aff238ec92@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260916T173000
+DTEND;TZID=America/Toronto:20260916T193000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3f9645296f4865@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260917T090000
+DTEND;TZID=America/Toronto:20260917T110000
+SUMMARY:Let’s Create (12 months to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to nurture creativ
+ ity through easy\, open-ended\, and fun artistic activities. These engagin
+ g activities may use common household items and may include arts and craft
+ s\, drawing\, painting\, and sculpting. Activities help children build con
+ fidence and enjoy creative exploration. Parents are encouraged to join in\
+ , making it a bonding experience that strengthens the parent-child relatio
+ nship. It’s a great way to connect with other families and educators.\n\
+ nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missio
+ ninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ddcb33d9137e115@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260917T091500
+DTEND;TZID=America/Toronto:20260917T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2a82e03b49f261@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260917T133000
+DTEND;TZID=America/Toronto:20260917T150000
+SUMMARY:Drumming (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore and exp
+ ress music with your body\, mind\, and soul through drumming. Engaging you
+  through rhythm and beat\, it fosters a sense of community. It’s a great
+  way to connect with other families and educators.\n\n**Please bring indoo
+ r shoes (or socks) for the program room.**\n\nPre-registration required\n\
+ nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/
+ york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:51b6c3f936aa77f6@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260917T133000
+DTEND;TZID=America/Toronto:20260917T150000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\nDr
+ op-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.
+ com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:181cfabbf1b2dec4@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260917T140000
+DTEND;TZID=America/Toronto:20260917T153000
+SUMMARY:Songs\, Rhymes\, and Stories in Cantonese (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in singi
+ ng\, rhyming\, and storytelling! This program supports development of lang
+ uage and literacy skills in a fun and engaging way. It’s a great way to 
+ connect with other families and educators.\n\nDrop-in\n\nCentre: EarlyON T
+ hornhill Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/early
+ on/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1df1df6d8491eba@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260917T173000
+DTEND;TZID=America/Toronto:20260917T190000
+SUMMARY:Family Fun Outdoors (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy some fun\
+ , interactive experiences in a variety of outdoor spaces. Dress for the we
+ ather. It's a great way to connect with other families and educators.\n\nD
+ rop-in\, Outdoor\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://ww
+ w.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:07a43b8f6d2e691b@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260918T090000
+DTEND;TZID=America/Toronto:20260918T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:808570d0396719cb@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260918T091500
+DTEND;TZID=America/Toronto:20260918T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:97da5693c5b4a4a0@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260919T090000
+DTEND;TZID=America/Toronto:20260919T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ffbd1f6786acfa7@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260919T090000
+DTEND;TZID=America/Toronto:20260919T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba0e3d89be43f7c@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260919T090000
+DTEND;TZID=America/Toronto:20260919T110000
+SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites men and their child(ren) to engage in expe
+ riences that promote early learning\, social skills\, and creativity. Toge
+ ther you will explore songs\, stories\, and hands-on activities through in
+ teractive play. It’s a great way to connect with other families and educ
+ ators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:81bfd273103f6a3b@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260919T110000
+DTEND;TZID=America/Toronto:20260919T130000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.m
+ issioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7bf131760870e7@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260919T120000
+DTEND;TZID=America/Toronto:20260919T133000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a72d991a641a9617@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260921T090000
+DTEND;TZID=America/Toronto:20260921T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1be2aeb6afd21bd@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260921T091500
+DTEND;TZID=America/Toronto:20260921T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4191b2ac78fe673@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260921T133000
+DTEND;TZID=America/Toronto:20260921T153000
+SUMMARY:Baby and Me (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
+ nd experiences designed to help you connect with your baby. Enjoy engaging
+  conversations and information sharing on healthy child development. It's 
+ a great way to connect with your baby\, other families and educators.\n\n*
+ *Please bring indoor shoes (or socks) for the program room (and non-slip g
+ rippy socks for baby).**\n\n*Note: Program will include active learning ex
+ periences that may help develop your child's gross motor skills.*\n\nDrop-
+ in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com
+ /cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a110478f46765926@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260921T140000
+DTEND;TZID=America/Toronto:20260921T153000
+SUMMARY:Baby and Me (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
+ nd experiences designed to help you connect with your baby. Enjoy engaging
+  conversations and information sharing on healthy child development. It's 
+ a great way to connect with your baby\, other families and educators.\n\n*
+ *Baby and Me – Treasure baskets**\nThis is a 3-week program. You and you
+ r baby are invited to join us to explore Treasure Baskets through songs\, 
+ rhymes\, and experiences designed to help you connect with your baby. Trea
+ sure Baskets offer children the opportunity to engage their senses fully. 
+ They can touch\, taste\, hear\, smell\, and see a diverse range of texture
+ s\, inviting them to experiment and make choices.\n\nPre-registration requ
+ ired\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc
+ .com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c884a1fea7b834a@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260922T090000
+DTEND;TZID=America/Toronto:20260922T110000
+SUMMARY:Music and Movement (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy music and
+  movement together. We’ll sing songs\, play with instruments and materia
+ ls that help support healthy development while connecting with other famil
+ ies and educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSourc
+ e: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98533f7bb56c217d@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260922T091500
+DTEND;TZID=America/Toronto:20260922T111500
+SUMMARY:Exploring STEAM (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore STEAM (
+ science\, technology\, engineering\, art\, and math) ideas. Children will 
+ investigate\, play\, communicate\, and experiment\, making learning a fun 
+ and interactive experience. Join us to discover the exciting world of STEA
+ M and watch your child’s curiosity and creativity grow! It’s a great w
+ ay to connect with other families and educators.\n\n**Please bring indoor 
+ shoes (or socks) for the program room.**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f78513c7ec9f8e@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260922T094500
+DTEND;TZID=America/Toronto:20260922T110000
+SUMMARY:Creative Chefs (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to participate in 
+ fun and interactive early learning experiences while preparing healthy and
+  nutritious food. Resources on healthy eating and nutrition will be made a
+ vailable. It’s a great way to connect with other families and educators.
+ \n\n**This 3-session VIRTUAL Program will take place via Zoom. The program
+  link and ingredient list will be provided in advance of each session.**\n
+ \nPre-registration required\, Virtual\n\nCentre: EarlyON Markham Centre\n\
+ nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c724dd26bade055c@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260922T133000
+DTEND;TZID=America/Toronto:20260922T150000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\n**Please bring indoor shoes (or socks) for the program roo
+ m (or non-slip grippy socks for baby).**\n\nDrop-in\n\nCentre: EarlyON Mar
+ kham Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/earlyon/c
+ alendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c53673470406d7f6@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260922T140000
+DTEND;TZID=America/Toronto:20260922T153000
+SUMMARY:Zumbini® for Babies (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:Zumbini® is for you and your baby. It not only provides a wond
+ erful workout for adults\, but it also provides the opportunity for infant
+ s to experience the sounds and rhythm of the music and movements. Zumbini
+ ® encourages parent-infant bonding while enhancing all areas of developme
+ nt. It’s a great way connect with other families and educators.\n\nDrop-
+ in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc.c
+ om/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:db77deea88bbcfd9@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260923T090000
+DTEND;TZID=America/Toronto:20260923T110000
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\nCentre:
+  EarlyON Thornhill Centre\n\nSource: https://www.missioninc.com/cso/york/e
+ n-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d88b4710bb5e5594@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260923T091500
+DTEND;TZID=America/Toronto:20260923T111500
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\n**Pleas
+ e bring indoor shoes (or socks) for the program room.**\n\nDrop-in\n\nCent
+ re: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/york/
+ en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa48eebca9fb1b8@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260923T133000
+DTEND;TZID=America/Toronto:20260923T153000
+SUMMARY:Playful Math (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:Math is everywhere around us! This program invites you and your
+  child(ren) to explore how math can be part of everyday play through fun a
+ ctivities\, songs and stories. This program helps children see and enjoy m
+ ath in their daily lives. It’s a great way to connect with other familie
+ s and educators.\n\n**Please bring indoor shoes (or socks) for the program
+  room.**\n\nDrop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:52bd0092bd1c39b2@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260923T140000
+DTEND;TZID=America/Toronto:20260923T153000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: htt
+ ps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb4bace6f6e20eb@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260923T173000
+DTEND;TZID=America/Toronto:20260923T193000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c10759ccaa4ffecb@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260924T090000
+DTEND;TZID=America/Toronto:20260924T110000
+SUMMARY:Let’s Create (12 months to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to nurture creativ
+ ity through easy\, open-ended\, and fun artistic activities. These engagin
+ g activities may use common household items and may include arts and craft
+ s\, drawing\, painting\, and sculpting. Activities help children build con
+ fidence and enjoy creative exploration. Parents are encouraged to join in\
+ , making it a bonding experience that strengthens the parent-child relatio
+ nship. It’s a great way to connect with other families and educators.\n\
+ nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missio
+ ninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd0609bd49e96602@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260924T091500
+DTEND;TZID=America/Toronto:20260924T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:79cbef1bced2cb5d@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260924T133000
+DTEND;TZID=America/Toronto:20260924T150000
+SUMMARY:Drumming (30 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to explore and exp
+ ress music with your body\, mind\, and soul through drumming. Engaging you
+  through rhythm and beat\, it fosters a sense of community. It’s a great
+  way to connect with other families and educators.\n\n**Please bring indoo
+ r shoes (or socks) for the program room.**\n\nPre-registration required\n\
+ nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/
+ york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:deb8ff0c6f5ed887@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260924T133000
+DTEND;TZID=America/Toronto:20260924T150000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\nDr
+ op-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.
+ com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:220e07b5237d456a@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260924T140000
+DTEND;TZID=America/Toronto:20260924T153000
+SUMMARY:Songs\, Rhymes\, and Stories in Mandarin (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in singi
+ ng\, rhyming\, and storytelling! This program supports development of lang
+ uage and literacy skills in a fun and engaging way. It’s a great way to 
+ connect with other families and educators.\n\nDrop-in\n\nCentre: EarlyON T
+ hornhill Centre\n\nSource: https://www.missioninc.com/cso/york/en-ca/early
+ on/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cedb59b05800a1b2@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260924T173000
+DTEND;TZID=America/Toronto:20260924T190000
+SUMMARY:Family Fun Outdoors (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to enjoy some fun\
+ , interactive experiences in a variety of outdoor spaces. Dress for the we
+ ather. It's a great way to connect with other families and educators.\n\nD
+ rop-in\, Outdoor\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://ww
+ w.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab55147694b3395@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260925T100000
+DTEND;TZID=America/Toronto:20260925T113000
+SUMMARY:EarlyON Special Event (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to special learnin
+ g experiences\, including\, but not limited to\, celebrations\, invited gu
+ ests and field trips. It provides great opportunities to explore community
+  resources and connect with other families and educators.\n\n**NATIONAL DA
+ Y FOR TRUTH AND RECONCILIATION @ Aaniin Community Centre**\nJoin EarlyON M
+ arkham\, Markham East and Thornhill as we commemorate and honour the heali
+ ng journey of Canada’s residential school survivors and their families\,
+  and remember the children who were lost. Participants will have the oppor
+ tunity to engage in meaningful learning experiences in honour of Orange Sh
+ irt Day.\n**Click here for Pre-register** https://www.missioninc.com/cso/y
+ ork/en-ca/earlyon/events/18107_20260925T100000Z\n\nPre-registration requir
+ ed\, Virtual\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.mi
+ ssioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3f53ecf19877e49@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260926T090000
+DTEND;TZID=America/Toronto:20260926T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:edc72ccfc88af5cb@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260926T090000
+DTEND;TZID=America/Toronto:20260926T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:056d6528dc1f0032@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260926T090000
+DTEND;TZID=America/Toronto:20260926T110000
+SUMMARY:Play\, Learn and Connect for Men (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites men and their child(ren) to engage in expe
+ riences that promote early learning\, social skills\, and creativity. Toge
+ ther you will explore songs\, stories\, and hands-on activities through in
+ teractive play. It’s a great way to connect with other families and educ
+ ators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1497525833d2b0d@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260926T110000
+DTEND;TZID=America/Toronto:20260926T130000
+SUMMARY:Open Door (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This informal program offers families the opportunity to drop i
+ n for unstructured play and speak with staff members about EarlyON program
+ s\, community resources\, arrange individual meetings and discuss referral
+ s.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.m
+ issioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:810944897ca0a5f9@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260926T120000
+DTEND;TZID=America/Toronto:20260926T133000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:73bb58355feecddc@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260928T090000
+DTEND;TZID=America/Toronto:20260928T110000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www
+ .missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8589afec20db85e1@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260928T091500
+DTEND;TZID=America/Toronto:20260928T111500
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8db58066edc18e@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260928T133000
+DTEND;TZID=America/Toronto:20260928T153000
+SUMMARY:Baby and Me (birth to 12 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
+ nd experiences designed to help you connect with your baby. Enjoy engaging
+  conversations and information sharing on healthy child development. It's 
+ a great way to connect with your baby\, other families and educators.\n\n*
+ *Please bring indoor shoes (or socks) for the program room (and non-slip g
+ rippy socks for baby).**\n\n*Note: Program will include active learning ex
+ periences that may help develop your child's gross motor skills.*\n\nDrop-
+ in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missioninc.com
+ /cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3addcef2eaf35c@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260928T140000
+DTEND;TZID=America/Toronto:20260928T153000
+SUMMARY:Baby and Me (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:You and your baby are invited to join us for songs\, rhymes\, a
+ nd experiences designed to help you connect with your baby. Enjoy engaging
+  conversations and information sharing on healthy child development. It's 
+ a great way to connect with your baby\, other families and educators.\n\n*
+ *Baby and Me – Treasure baskets**\nThis is a 3-week program. You and you
+ r baby are invited to join us to explore Treasure Baskets through songs\, 
+ rhymes\, and experiences designed to help you connect with your baby. Trea
+ sure Baskets offer children the opportunity to engage their senses fully. 
+ They can touch\, taste\, hear\, smell\, and see a diverse range of texture
+ s\, inviting them to experiment and make choices.\n\nPre-registration requ
+ ired\n\nCentre: EarlyON Thornhill Centre\n\nSource: https://www.missioninc
+ .com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:79d0bcb76caea54b@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260930T090000
+DTEND;TZID=America/Toronto:20260930T110000
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\nCentre:
+  EarlyON Thornhill Centre\n\nSource: https://www.missioninc.com/cso/york/e
+ n-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:24cf537a95d2362e@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260930T091500
+DTEND;TZID=America/Toronto:20260930T111500
+SUMMARY:Toddler Time (10 months to 30 months)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your toddler to enjoy fun learning
+  activities together. You’ll explore different materials\, play\, and le
+ arn\, while building positive relationships. It’s a great chance to bond
+  with your child and connect with other families and educators.\n\n**Pleas
+ e bring indoor shoes (or socks) for the program room.**\n\nDrop-in\n\nCent
+ re: EarlyON Markham Centre\n\nSource: https://www.missioninc.com/cso/york/
+ en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d889fc9cc3b4ed3@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260930T133000
+DTEND;TZID=America/Toronto:20260930T153000
+SUMMARY:Playful Math (12 months to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:Math is everywhere around us! This program invites you and your
+  child(ren) to explore how math can be part of everyday play through fun a
+ ctivities\, songs and stories. This program helps children see and enjoy m
+ ath in their daily lives. It’s a great way to connect with other familie
+ s and educators.\n\n**Please bring indoor shoes (or socks) for the program
+  room.**\n\nDrop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://w
+ ww.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bab51e7c7279c2e6@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260930T140000
+DTEND;TZID=America/Toronto:20260930T153000
+SUMMARY:Baby Music and Movement (birth to 12 months)
+LOCATION:7755 Bayview Avenue\, Thornhill\, ON L3T 4P1
+DESCRIPTION:This program invites you and your baby to enjoy music and movem
+ ent together. We’ll sing songs\, play with instruments and materials tha
+ t help support healthy development while connecting with other families an
+ d educators.\n\nDrop-in\n\nCentre: EarlyON Thornhill Centre\n\nSource: htt
+ ps://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2fa1193184b1f06@earlyon-cal
+DTSTAMP:20260822T072753Z
+DTSTART;TZID=America/Toronto:20260930T173000
+DTEND;TZID=America/Toronto:20260930T193000
+SUMMARY:Play\, Learn and Connect (birth to 6 years old)
+LOCATION:3990 14th Avenue\, Markham\, ON L3R 0B2
+DESCRIPTION:This program invites you and your child(ren) to engage in exper
+ iences that promote early learning\, social skills\, and creativity. Toget
+ her you may explore songs\, stories\, and hands-on activities through inte
+ ractive play. It’s a great way to connect with other families and educat
+ ors.\n\n**Please bring indoor shoes (or socks) for the program room.**\n\n
+ Drop-in\n\nCentre: EarlyON Markham Centre\n\nSource: https://www.missionin
+ c.com/cso/york/en-ca/earlyon/calendar
 URL:https://www.missioninc.com/cso/york/en-ca/earlyon/calendar
 TRANSP:OPAQUE
 END:VEVENT
